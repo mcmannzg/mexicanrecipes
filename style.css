@@ -1,0 +1,102 @@
+body {
+    background-color: wheat;
+    margin: auto;
+}
+h1 {
+    font-size: 48px;
+    font-family: verdana;
+    color: white;
+    background-image: url("http://www.1wallpaperhd.com/wp-content/uploads/Food/FTP2/1920x1080/Mexican%20food%20wallpaper%2009%201920x1080.jpg");
+    height: 150px;
+    padding-top: 10px;
+    padding-left: 100px
+}
+a.home {
+    color: black;
+    text-decoration: none;
+    font-family: verdana;
+    font-size: 18px;
+}
+a.home:hover {
+    color: white;
+}
+a.recipe {
+    color: black;
+    text-decoration: none;
+    font-family: verdana;
+    font-size: 18px;
+}
+a.recipe:hover {
+    color: white;
+}
+a.contact {
+    color: black;
+    text-decoration: none;
+    font-family: verdana;
+    font-size: 18px;
+}
+a.contact:hover {
+    color: white;
+}
+a.submit {
+    color: black;
+    text-decoration: none;
+    font-family: verdana;
+    font-size: 18px;
+}
+a.submit:hover {
+    color: white;
+}
+.container {
+    text-align: center;
+}
+h2.jumbotron {
+    background-image: url("http://www.thehotdamntamalefactory.com/Salsa.jpg");
+    height: 400px;
+    width: 1000px;
+    padding-top: 200px;
+    color: white;
+    font-size: 48px;
+    font-family: verdana;
+    margin-left: 325px;
+}
+.bottom {
+    text-align: center;
+    font-family: verdana;
+}
+footer {
+    text-align: center;
+    font-family: verdana;
+    font-size: 12px;
+}
+.bucket {
+    height: 100px;
+    text-align: center;
+}
+button {
+    height: 50px;
+    width: 200px;
+    font-family: verdana;
+    background-color: white;
+    font-size: 16px;
+    border-radius: 50px;
+}
+button:hover {
+    cursor: alias;
+    background-color: black;
+    color: white;
+}
+.break {
+    color: black;
+    text-decoration: none;
+}
+.break:hover {
+    color: white;
+}
+.lunch {
+    color: black;
+    text-decoration: none;
+}
+.lunch:hover {
+    color: white;
+}

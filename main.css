@@ -1,0 +1,35 @@
+#style {
+    background-color: ;
+    height: 30px;
+}
+h1 {
+    font-family: Verdana;
+    border:  background solid #ffb;
+    padding-left: 505px;
+    
+    
+}
+html {
+    background-color: wheat;
+}
+img {
+    margin: center;
+    height: 200px;
+    width: 250px;
+    padding-left:505px;
+    
+    
+}
+p {
+    padding-left: 505px;
+    font-family: Verdana;
+    color: teal;
+    padding-right: 250px;
+    
+}
+h2 {
+    padding-left: 505px;
+}
+h3 {
+ padding-left: 505px;   
+}

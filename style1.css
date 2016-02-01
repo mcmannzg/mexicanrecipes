@@ -1,0 +1,64 @@
+body {
+    background-color: wheat;
+    font-family: verdana;
+}
+h1 {
+    color: white;
+    font-family: verdana;
+    font-size: 48px;
+    background-image: url("https://irp-cdn.multiscreensite.com/4a1f5db8/dms3rep/multi/desktop/gallery%20(18)-1920x1080.jpg");
+    height: 200px;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+a.home {
+    color: black;
+    text-decoration: none;
+    font-family: verdana;
+    font-size: 18px;
+}
+a.home:hover {
+    color: white;
+}
+a.recipe {
+    color: black;
+    text-decoration: none;
+    font-family: verdana;
+    font-size: 18px;
+}
+a.recipe:hover {
+    color: white;
+}
+a.contact {
+    color: black;
+    text-decoration: none;
+    font-family: verdana;
+    font-size: 18px;
+}
+a.contact:hover {
+    color: white;
+}
+a.submit {
+    color: black;
+    text-decoration: none;
+    font-family: verdana;
+    font-size: 18px;
+}
+a.submit:hover {
+    color: white;
+}
+.container {
+    text-align: center;
+}
+.breakfast {
+    font-family: verdana;
+}
+.titleb {
+    font-size: 48px;
+    text-decoration: underline;
+}
+footer {
+    font-family: verdana;
+    font-size: 12px;
+    text-align: center;
+}
